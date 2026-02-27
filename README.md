@@ -456,7 +456,8 @@
     <!-- Footer -->
     <footer>
         <p><strong>MOVON EXPRESS</strong></p>
-        <p>Email: <a href="mailto:info@movonexpress.com" class="footer-email">info@movonexpress.com</a></p>
+        <p>Email: <a href="mailto:samiabdul616@gmail.com" class="footer-email">samiabdul616@gmail.com</a></p>
+        <p>Phone: <a href="tel:+919518291392" class="footer-email">+91 9518291392</a></p>
         <p>&copy; 2024 Movon Express. All rights reserved.</p>
     </footer>
 
@@ -496,7 +497,7 @@
             );
             
             // Open email client
-            window.location.href = `mailto:info@movonexpress.com?subject=${subject}&body=${body}`;
+            window.location.href = `mailto:samiabdul616@gmail.com?subject=${subject}&body=${body}`;
             
             // Show success message
             document.getElementById('successMessage').style.display = 'block';
